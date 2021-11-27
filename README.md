@@ -1,6 +1,5 @@
 # program2
 #include<stdio.h>
-
 void main() {
   char STR[100],PAT[100],REP[100],ans[100];
   int i,j,c,m,k,flag=0;
